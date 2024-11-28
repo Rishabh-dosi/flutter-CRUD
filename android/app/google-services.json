@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839970392990",
+    "project_id": "flutter-form-eb48b",
+    "storage_bucket": "flutter-form-eb48b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839970392990:android:d7f17d80f5f8873ab1a48f",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839970392990-p4plmp25ej17abtn5v1maksmusmncniv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo",
+            "certificate_hash": "c2b941d3e611b726e56fbd2655d31bb7e42bb9c5"
+          }
+        },
+        {
+          "client_id": "839970392990-6p1m3it4clev2729pplqkl4ft9e9uj9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCKwkT0_hZsYlLCElDLgLracVAh54Ydk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839970392990-6p1m3it4clev2729pplqkl4ft9e9uj9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
